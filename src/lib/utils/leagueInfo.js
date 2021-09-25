@@ -1,14 +1,14 @@
 /*   STEP 1   */
 export const leagueID = "670111313229312000"; // your league ID
-export const leagueName = "Sunday Funday"; // your league name
-export const dues = 100; // (optional) used in template constitution page
+export const leagueName = "The Sunday Funday Fantasy Football League"; // your league name
+export const dues = 60; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the home of the SUNDAY FUNDAY Fantasy Football League!</p>
-  <p>This league was established in 2012</p>
+  <p>Founded in 2012, The Sunday Funday League was born out of the Univerity of Missouri. A group of friends came together to battle each year for the Sunday Funday Cup and avoid the toilet bowl punishment</p>
+  
 
 `;
 
